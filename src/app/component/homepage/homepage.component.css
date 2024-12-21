@@ -1,0 +1,4 @@
+.prd{
+  transform: scale(1.05); /* Grow the card */
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2); /* Add a stronger shadow on hover */
+}
